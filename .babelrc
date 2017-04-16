@@ -1,0 +1,10 @@
+{
+  "presets": [
+    ["env", {
+      "targets": {
+        "Chorme": 56
+      }
+    }],
+    "@mizchi/babel-preset"
+  ]
+}
